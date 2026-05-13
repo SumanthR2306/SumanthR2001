@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Sairaj Moulasab Nadaf
+# 👋 Hi there, I'm Gurijala Sumanth Reddy
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=900&lines=Full+Stack+Developer;Web3+Engineer+%7C+Smart+Contract+Developer;Building+Scalable+Web2+%26+Web3+Applications;Blockchain+%7C+Cybersecurity+%7C+Open+Source" />
 
@@ -13,10 +13,10 @@
 <a href="https://github.com/SairajMN">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://www.linkedin.com/in/sairaj-m-n/">
+<a href="https://www.linkedin.com/in/g-sumanth-reddy23">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:sairaj.nadaf@gmail.com">
+<a href="mailto:Reddysumanth465@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://x.com/sairaj_18">
