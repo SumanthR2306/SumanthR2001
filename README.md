@@ -1,25 +1,29 @@
 <div align="center">
 
-# 👋 Hi there, I'm G Sumanth Reddy
+# ✨ Hey, I'm G Sumanth Reddy ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=950&lines=Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;Python+%7C+JavaScript+%7C+React+%7C+Node.js" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=1000&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Scalable+Web+Applications+%F0%9F%8C%90;Python+%7C+React+%7C+Node.js+%7C+Java" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SumanthR2306&label=Profile+Views&color=8B5CF6&style=for-the-badge" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=220&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=SumanthR2306&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" />
 
 <br/><br/>
 
 <a href="https://github.com/SumanthR2306">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/g-sumanth-reddy23">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:Reddysumanth465@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -28,43 +32,42 @@
 
 # 💫 About Me
 
-🚀 Software Engineer & Full Stack Developer passionate about creating scalable and user-friendly applications.
+<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-💻 Skilled in:
-- Full Stack Web Development
-- Frontend & Backend Development
-- Machine Learning Applications
-- Database Management
-- Software Engineering Fundamentals
+🚀 Passionate **Software Engineer** & **Full Stack Developer**  
+💡 Focused on creating scalable and modern applications  
+🤖 Enthusiastic about **Machine Learning & AI**  
+🌱 Continuously learning new technologies and frameworks  
+🔥 Love building real-world projects & solving problems  
 
-🧠 Interested in:
-- AI & Machine Learning
-- Web Technologies
-- Open Source Contributions
-- Building Real-World Applications
-- Learning Modern Development Tools
+<br/>
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Tech Arsenal
 
 <div align="center">
 
-## 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap" />
+## 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap&theme=dark" />
 
-## ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,php,python,java,spring,mongodb,mysql,postgres" />
+<br/><br/>
+
+## ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,php,python,java,spring,mongodb,mysql,postgres&theme=dark" />
+
+<br/><br/>
 
 ## 🤖 Machine Learning
-<img src="https://skillicons.dev/icons?i=python" />
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
+<br/><br/>
+
 ## 🛠️ Tools & IDEs
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,visualstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,linux&theme=dark" />
 
 </div>
 
@@ -74,13 +77,17 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SumanthR2306&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SumanthR2306&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SumanthR2306&theme=tokyonight&hide_border=true&border_radius=15" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SumanthR2306&theme=tokyonight&hide_border=true&border_radius=20"/>
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=SumanthR2306&theme=tokyo-night&hide_border=true" />
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=SumanthR2306&theme=tokyo-night&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumanthR2306&theme=tokyonight"/>
 
 </div>
 
@@ -90,13 +97,63 @@
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🤖 **Stress Detection in IT Employees** | Machine learning model to predict employee stress levels using behavioral & physiological data | Python, Pandas, NumPy, Scikit-Learn |
-| 📱 **Mobile Store Management** | Desktop application for inventory, billing & customer management | C#, SQL Server, Windows Forms |
-| 📊 **Sales & Inventory Reporting System** | Automated reporting system for sales summaries & invoices | SQL, C#, Database Management |
-| 🌐 **Full Stack Web Applications** | Responsive web applications with frontend & backend integration | React.js, Node.js, MySQL |
-| 💻 **Portfolio & UI Projects** | Modern responsive UI/UX-based web projects | HTML, CSS, JavaScript, Bootstrap |
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Stress Detection in IT Employees
+
+🔹 Machine Learning based stress prediction system  
+🔹 Achieved **97% accuracy**  
+🔹 Used behavioral & physiological datasets  
+
+**Tech Used:**  
+`Python` `Pandas` `NumPy` `Scikit-Learn`
+
+</td>
+
+<td width="50%">
+
+### 📱 Mobile Store Management
+
+🔹 Inventory & billing management system  
+🔹 Role-based access implementation  
+🔹 Automated reports & invoices  
+
+**Tech Used:**  
+`C#` `SQL Server` `Windows Forms`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Full Stack Web Applications
+
+🔹 Responsive full-stack web apps  
+🔹 Frontend & backend integration  
+🔹 Database connectivity & APIs  
+
+**Tech Used:**  
+`React.js` `Node.js` `MySQL`
+
+</td>
+
+<td width="50%">
+
+### 💻 Portfolio & UI Projects
+
+🔹 Modern UI/UX projects  
+🔹 Responsive website layouts  
+🔹 Interactive components & styling  
+
+**Tech Used:**  
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -104,27 +161,41 @@
 
 # 🏆 Achievements
 
-✨ Developed ML model with **97% accuracy** for stress detection  
-✨ Built full-stack and desktop-based applications  
-✨ Strong foundation in software engineering & databases  
-✨ Passionate about learning modern technologies  
-✨ Hands-on experience in machine learning & web development  
+<div align="center">
+
+🥇 Built ML model with **97% prediction accuracy**  
+🚀 Developed multiple full-stack applications  
+💻 Strong understanding of software engineering concepts  
+🌱 Continuously improving development & problem-solving skills  
+🔥 Passionate about AI, Web Development & Technology  
+
+</div>
 
 ---
 
 # 📜 Certifications
 
-- 🎓 Simplilearn — Getting Started with Full Stack Java Development
-- 💻 Great Learning — Full Stack Master Course
-- 🤖 Glovish Technologies — Advance Python & Machine Learning
+<div align="center">
+
+| Certification | Platform |
+|---|---|
+| 🎓 Getting Started with Full Stack Java Development | Simplilearn |
+| 💻 Full Stack Master Course | Great Learning |
+| 🤖 Advance Python & Machine Learning | Glovish Technologies |
+
+</div>
 
 ---
 
 # 🎓 Education
 
+<div align="center">
+
 🎓 **Bachelor of Computer Applications (BCA)**  
-Vivekananda Institute of Management — Bangalore  
-2020 - 2023
+📍 Vivekananda Institute of Management, Bangalore  
+📅 2020 - 2023
+
+</div>
 
 ---
 
@@ -141,18 +212,28 @@ Vivekananda Institute of Management — Bangalore
 </a>
 
 <a href="https://github.com/SumanthR2306">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 💭 Developer Quote
+# 💭 Random Dev Quote
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -160,7 +241,9 @@ Vivekananda Institute of Management — Bangalore
 
 <div align="center">
 
-## 🔥 “Learn. Build. Improve. Repeat.”
+# 🔥 “Code • Learn • Build • Repeat”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=120&section=footer"/>
 
 ⭐ From [SumanthR2306](https://github.com/SumanthR2306)
 
