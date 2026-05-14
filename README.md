@@ -93,32 +93,6 @@
 
 ---
 
-# 🚀 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/SumanthR2306/Stress-Detection-System">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthR2306&repo=Stress-Detection-System&theme=tokyonight&hide_border=true&border_radius=15"/>
-</a>
-
-<a href="https://github.com/SumanthR2306/Mobile-Store-Management">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthR2306&repo=Mobile-Store-Management&theme=tokyonight&hide_border=true&border_radius=15"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/SumanthR2306/Portfolio-Website">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthR2306&repo=Portfolio-Website&theme=tokyonight&hide_border=true&border_radius=15"/>
-</a>
-
-<a href="https://github.com/SumanthR2306/FullStack-WebApp">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthR2306&repo=FullStack-WebApp&theme=tokyonight&hide_border=true&border_radius=15"/>
-</a>
-
-</div>
-
----
-
 # 🚀 Featured Projects
 
 <div align="center">
