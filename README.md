@@ -2,7 +2,7 @@
 
 # ✨ Hey, I'm G Sumanth Reddy ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=1000&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Scalable+Web+Applications+%F0%9F%8C%90;Python+%7C+React+%7C+Node.js+%7C+Java" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=1000&lines=Software+Engineer+💻;Full+Stack+Developer+🚀;Machine+Learning+Enthusiast+🤖;Building+Scalable+Web+Applications+🌐;Python+|+React+|+Node.js+|+Java" />
 
 <br/>
 
@@ -88,6 +88,32 @@
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SumanthR2306&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🚀 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/SumanthR2306/Stress-Detection-System">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthR2306&repo=Stress-Detection-System&theme=tokyonight&hide_border=true&border_radius=15"/>
+</a>
+
+<a href="https://github.com/SumanthR2306/Mobile-Store-Management">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthR2306&repo=Mobile-Store-Management&theme=tokyonight&hide_border=true&border_radius=15"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/SumanthR2306/Portfolio-Website">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthR2306&repo=Portfolio-Website&theme=tokyonight&hide_border=true&border_radius=15"/>
+</a>
+
+<a href="https://github.com/SumanthR2306/FullStack-WebApp">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthR2306&repo=FullStack-WebApp&theme=tokyonight&hide_border=true&border_radius=15"/>
+</a>
 
 </div>
 
